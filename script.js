@@ -16,7 +16,7 @@
         selector: 'section.ps-photo figure.zoom',
         zoomStep: 1.12,
         minZoom: 10,
-        maxZoom: 250,
+        maxZoom: 450,
         dragSensitivity: 1
     };
 
